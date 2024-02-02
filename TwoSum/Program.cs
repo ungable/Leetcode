@@ -1,5 +1,8 @@
-﻿
-Console.WriteLine(TwoSum([2,5,5,11], 10));
+﻿TwoSum([2,7,11,15], 9);
+TwoSum([3,2,4], 6);
+TwoSum([3,3], 6);
+TwoSum([2,5,5,11], 10);
+
 
 int[] TwoSum(int[] nums, int target)
 {
